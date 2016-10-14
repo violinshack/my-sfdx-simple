@@ -1,0 +1,3 @@
+stagingName=sfdx-juliet-staging
+prodName=sfdx-juliet-prod
+pipelineName=sfdx-juliet-pipelines
